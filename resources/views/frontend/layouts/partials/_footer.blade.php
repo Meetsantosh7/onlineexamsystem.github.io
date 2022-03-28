@@ -1,0 +1,1 @@
+<footer class="text-center" style="color:#fff;background:black;">&copy Designed and Developed By Binod Thakur</footer>

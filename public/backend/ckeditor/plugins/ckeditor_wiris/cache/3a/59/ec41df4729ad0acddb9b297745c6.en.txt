@@ -1,0 +1,1 @@
+stack fraction numerator d 2 over denominator d 2 end fraction with overbrace on top

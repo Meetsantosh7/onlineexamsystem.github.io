@@ -1,0 +1,1 @@
+<script src="{{ asset(STATIC_DIR.'js/app.js') }}" defer></script>
